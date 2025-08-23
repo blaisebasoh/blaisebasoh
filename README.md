@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Blaze</h1>
+<h1 align="center">Hi, I'm Blaise</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=donut&theme=radical" alt="Top Languages" />
 </div>
