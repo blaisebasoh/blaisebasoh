@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Blaise</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazeonitch&layout=donut&theme=radical" alt="Top Languages" />
+  <h1>I moved to Codeberg for privary reasons.</h1>
+  <a href="https://codeberg.org/blaisembih">my_codeberg</a>
 </div>
 <!---
 blazeonitch/blazeonitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
